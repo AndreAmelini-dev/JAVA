@@ -35,4 +35,3 @@ public class SimuladoAc2 {
        
     }
 }
-/*professor a identação do código está correta ?? */
